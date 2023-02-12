@@ -1,3 +1,9 @@
+node_modules
+package-lock.json
+.environment
+.DS_Store
+
+
 # Logs
 logs
 *.log
