@@ -3,7 +3,7 @@
 
 # Usage
 
-1. Ensure that you have MongoDB installed on your machine (documentation is on the [MongoDB website] (https://www.mongodb.com/docs/atlas/))
+1. Ensure that you have MongoDB installed on your machine. Documentation is on the MongoDB website: https://www.mongodb.com/docs/atlas/
 2. Clone the repo
 3. Install dependencies with npm-i
 4. Run npm start to run the server
